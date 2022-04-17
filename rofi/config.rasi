@@ -1,0 +1,7 @@
+//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+//@theme "/usr/share/rofi/themes/sidebar.rasi"
+//@theme "/usr/share/rofi/themes/Monokai.rasi"
+//@theme "/usr/share/rofi/themes/slate.rasi"
+//@theme "/usr/share/rofi/themes/config.rasi"
+//@theme "themes/default"
+@theme "/home/rackoon/.config/rofi/themes/default.rasi"
